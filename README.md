@@ -6,12 +6,12 @@ SummarizeIt é uma plataforma de busca por indexação feita com base nos módul
 ![](./imgs/SummarizeIt0.PNG)
 
 ## Tecnologias utilizadas
-Python - version 3.9.6
-Flask - version 2.0.2
-WikiMedia
-WikipediaAP
-Bootstrap CSS - version 5.1.3
-HTML
+- Python - version 3.9.6
+- Flask - version 2.0.2
+- WikiMedia
+- WikipediaAP
+- Bootstrap CSS - version 5.1.3
+- HTML
 
 ## Features
 - Resumir e apresentar ao usuário através de "busca por termos" um resultado baseado na base de dados da Wikipedia
@@ -34,7 +34,7 @@ Antes de tudo, você vai precisar do `python` e do `git`, eu não irei ensinar o
 - [Python.org](https://www.python.org/downloads/)
 - [Git page](https://git-scm.com/)
 - [Como instalar o git no Windows](https://phoenixnap.com/kb/how-to-install-git-windows)
-- [Como instalar o git no Mac]](https://phoenixnap.com/kb/install-git-on-mac)
+- [Como instalar o git no Mac](https://phoenixnap.com/kb/install-git-on-mac)
 - [Como instalar o git no Linux](https://www.tutorialspoint.com/how-to-install-git-on-linux)
 
 __*PRESTE ATENÇÃO NO CÓDIGO `app.py` CASO QUEIRA FAZER DEPLOY REAL DESTE PROJETO, UMA PARTE DO CÓDIGO QUANTO À SECRET KEY DO FLASK DEVE SER ALTERADA*__
@@ -101,7 +101,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## Contributing
 
-1. Faça o _fork_ do projeto (<https://github.com/yourname/yourproject/fork>)
+1. Faça o _fork_ do projeto (<https://github.com/P-py/SummarizeIt-open/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
 3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
 4. _Push_ (`git push origin feature/fooBar`)
