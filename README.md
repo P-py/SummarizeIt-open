@@ -7,7 +7,7 @@ SummarizeIt é uma plataforma de busca por indexação feita com base nos módul
 
 ## Deploy oficial
 
-[http://thesummarizeit.herokuapp.com/](SummarizeIt)
+[SummarizeIt on Heroku](http://thesummarizeit.herokuapp.com/)
 
 ## Tecnologias utilizadas
 - Python - version 3.9.6
