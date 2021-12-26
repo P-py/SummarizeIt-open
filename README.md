@@ -1,7 +1,7 @@
 # SummarizeIt
 > SummarizeIt é uma plataforma de pesquisa baseada na web, sendo implementada em python e podendo pesquisar e resumir qualquer tópico que esteja disponível na WikipediaAPI
 
-SummarizeIt é uma plataforma de busca por indexação feita com base nos módulos e APIs [WikipediaAPI-python](https://wikipedia.readthedocs.io/en/latest/) e [Wikipedia-Search-Tool](https://github.com/P-py/Wikipedia-Search-Tool). Tendo a sua versão web baseada em um Backend [python](https://www.python.org/) com (https://flask.palletsprojects.com/en/2.0.x/)[Flask] e um Frontend baseado em JavaScript e (https://getbootstrap.com/)[Bootstrap-CSS]. Através da plataforma SummarizeIt é possível realizar uma busca de qualquer artigo que esteja disponível dentro da base de dados da [Wikipedia](https://www.wikipedia.org/) e receber, através disso, um resumo/síntese do mesmo.
+SummarizeIt é uma plataforma de busca por indexação feita com base nos módulos e APIs [WikipediaAPI-python](https://wikipedia.readthedocs.io/en/latest/) e [Wikipedia-Search-Tool](https://github.com/P-py/Wikipedia-Search-Tool). Tendo a sua versão web baseada em um Backend [python](https://www.python.org/) com [Flask](https://flask.palletsprojects.com/en/2.0.x/) e um Frontend baseado em JavaScript e [Bootstrap-CSS](https://getbootstrap.com/). Através da plataforma SummarizeIt é possível realizar uma busca de qualquer artigo que esteja disponível dentro da base de dados da [Wikipedia](https://www.wikipedia.org/) e receber, através disso, um resumo/síntese do mesmo.
 
 ![](./imgs/SummarizeIt0.PNG)
 
