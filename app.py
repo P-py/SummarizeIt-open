@@ -18,6 +18,11 @@ def index():
         language = request.form['language']
         objective = request.form['objective']
 
+        #Error message for empty searchs
+        if objective == '':
+            flash("Please insert a target for the search. Do not make empty searchs.", category="error")
+            return render_template('index.html')
+
 
         language_codes = ['fr', 'en', 'pt', 'de', 'nl', 'it']
         for code in language_codes:
